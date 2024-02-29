@@ -45,8 +45,6 @@ ${data.description}
 - [Questions](#questions)
 - [License](#license)    
 
-
-
 ## Installation
     
 ${data.installation}
@@ -61,7 +59,6 @@ If you have any questions feel free to connect with me: https://www.github.com/$
 
 ## License
 ${licenseLink} 
-
  
 `
   ;}
