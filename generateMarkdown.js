@@ -3,7 +3,6 @@
 
 function renderLicenseBadge(license){
   let licenseBadge = "";
-  console.log (license)
   if (license === "mit") {
   licenseBadge = "[![License: mit](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/license/mit)";
 } else {
@@ -16,7 +15,6 @@ return licenseBadge;
 // TODO: Create a function that returns the license link
 // If there is no license, return an empty string
 function renderLicenseLink(license) {
-  console.log(license)
   let licenseLink = "";
   if (license === "mit"){
   licenseLink = "[mit](https://opensource.org/license/mit)" 
